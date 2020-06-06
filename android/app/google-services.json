@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685384767919",
+    "firebase_url": "https://flash-chat-a39e4.firebaseio.com",
+    "project_id": "flash-chat-a39e4",
+    "storage_bucket": "flash-chat-a39e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685384767919:android:91d8506ca4cfcc37e7b75a",
+        "android_client_info": {
+          "package_name": "co.bharat.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685384767919-6mboka0uamhrlh1qr0rk94c9t111bq1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dbbcltZwFXZXDX2mU26vVkJJ2KE25OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685384767919-6mboka0uamhrlh1qr0rk94c9t111bq1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
